@@ -24,7 +24,7 @@ python main.py --reset    # clear saved history
 4. Results are appended to `history.json` (git-ignored) so `--stats` can
    show your best and average WPM over time.
 
-## Ideas for extending it
+## Ideas for extending it(tomorrow)
 
 - Add more quotes (or load them from a file/API)
 - Add difficulty modes (code snippets, numbers, punctuation-heavy text)
